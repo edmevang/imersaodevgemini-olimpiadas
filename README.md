@@ -1,7 +1,3 @@
-## **Uma ótima escolha!** Combinar a simplicidade do primeiro README com a praticidade do link do deploy é uma excelente ideia. 
-
-**Aqui está uma versão que une o melhor dos dois mundos:**
-
 ## **Aplicação de Pesquisa de Atletas Brasileiros**
 
 **Sua busca por atletas favoritos começa aqui!**
