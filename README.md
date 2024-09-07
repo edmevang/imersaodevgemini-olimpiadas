@@ -39,20 +39,3 @@ Gosta de programação? Quer ajudar a melhorar a aplicação? Você pode:
 **Vamos juntos torcer pelo Brasil!**
 
 **#desenvolvedor #javascript #html #css #esportes #brasil #vercel**
-
-**Essa versão destaca os pontos fortes de ambos os READMEs:**
-
-* **Foco no usuário:** Explica de forma clara o que a aplicação faz e como usá-la.
-* **Informações técnicas:** Detalhes sobre as tecnologias utilizadas e como contribuir.
-* **Link direto para o deploy:** Facilita o acesso daqueles que querem experimentar a aplicação.
-* **Chamada para ação:** Incentiva a colaboração e o uso da aplicação.
-
-**Você pode personalizar ainda mais este README:**
-
-* **Adicionar capturas de tela:** Para mostrar a interface da aplicação.
-* **Agradecer colaboradores:** Se tiver alguma equipe, agradeça por aqui.
-* **Incluir um guia de estilo:** Para manter a consistência do código.
-
-**Lembre-se:** Um bom README é a porta de entrada para o seu projeto. Quanto mais claro e convidativo ele for, mais pessoas se interessarão em conhecer e utilizar sua aplicação.
-
-**Gostou? Tem alguma outra ideia para melhorar?** 
